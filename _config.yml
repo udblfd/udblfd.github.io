@@ -76,7 +76,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "大家好，我是新人，请多指教。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-zhenggc.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
